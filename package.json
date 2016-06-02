@@ -1,0 +1,30 @@
+{
+  "name": "Local-Events-App",
+  "version": "0.0.0",
+  "description": "Course Angular2 project for Starting with Angular2",
+  "author": "AlohaCodeWorks",
+  "license": "ISC",
+  "repository": {},
+  "scripts": {
+    "start": "gulp",
+	  "typings": "typings",
+	  "postinstall": "typings install"
+  },
+  "dependencies": {
+    "angular2": "2.0.0-beta.15",
+    "systemjs": "0.19.26",
+    "es6-shim": "^0.35.0",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "5.0.0-beta.2",
+    "zone.js": "0.6.10",
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.12.5",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-typescript": "^2.13.0",
+    "superstatic": "^4.0.2",
+    "typings": "^0.7.12"
+  }
+}

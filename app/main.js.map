@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.ts"],"names":[],"mappings":";;;;;;;;;;;;;YAMA,mBAAS,CAAC,4BAAY,CAAC,CAAC","file":"main.js","sourcesContent":["import { bootstrap } from 'angular2/platform/browser';\n\n// main component\nimport { AppComponent }\n  from './app.component';\n\nbootstrap(AppComponent);\n\n\n"]}
