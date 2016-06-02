@@ -7,8 +7,8 @@
   "repository": {},
   "scripts": {
     "start": "gulp",
-	  "typings": "typings",
-	  "postinstall": "typings install"
+    "typings": "typings",
+    "postinstall": "typings install"
   },
   "dependencies": {
     "angular2": "2.0.0-beta.15",
@@ -23,8 +23,11 @@
     "browser-sync": "^2.12.5",
     "gulp": "^3.9.1",
     "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-tslint": "^5.0.0",
     "gulp-typescript": "^2.13.0",
     "superstatic": "^4.0.2",
+    "tslint": "^3.10.2",
+    "typescript": "^1.8.10",
     "typings": "^0.7.12"
   }
 }

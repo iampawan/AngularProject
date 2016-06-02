@@ -1,3 +1,5 @@
 /node_modules
 /typings
 /.c9
+/app/*.js
+/app/*.map
