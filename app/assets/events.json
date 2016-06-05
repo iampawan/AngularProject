@@ -7,6 +7,7 @@
                 "duration": "1 Hour",
 				"fee": 1,
 				"rating": 1,
+				"imageUrl" : "https://openclipart.org/image/300px/svg_to_png/193230/Tux-at-the-Beach-by-Merlin2525.png",
                 "location": {
                     "streetAddr": "101 Main St.",
                     "city": "Los Angeles",
@@ -26,6 +27,7 @@
                 "duration": "2 Hours",
 				"fee": 2,
 				"rating": 2,
+				"imageUrl" : "https://openclipart.org/image/300px/svg_to_png/221228/Ice-Cream-Beach.png",
                 "location": {
                     "streetAddr": "202 Main St.",
                     "city": "Los Angeles",
@@ -45,6 +47,7 @@
                 "duration": "3 Hours",
 				"fee": 3,
 				"rating": 3,
+				"imageUrl" : "https://openclipart.org/image/300px/svg_to_png/216716/plage-1-REMIX.png",
                 "location": {
                     "streetAddr": "303 Main St.",
                     "city": "Los Angeles",
@@ -64,6 +67,7 @@
                 "duration": "4 Hours",
 				"fee": 4,
 				"rating": 4,
+				"imageUrl" : "https://openclipart.org/image/300px/svg_to_png/5351/addon-sandcastle-2.png",
                 "location": {
                     "streetAddr": "404 Main St.",
                     "city": "Los Angeles",
